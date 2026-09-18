@@ -11,8 +11,7 @@
 > **Objetivo:** Dar pistas térmicas com base na distância numérica entre o palpite e a combinação correta usando a função nativa abs().
 
 > [!TIP]
-## 💡 Dicas de Implementação & Resolução de Problemas
-
-* 🛡️ **Validação de Inputs:** O
-* Usa o `try / except ValueError` para evitar que o programa vá abaixo se o utilizador escrever texto em vez de números. 
-* 📏 **A Função `abs()`:** Calcular a distância térmica (`abs(secreto - tentativa)
+> ### 💡 Dicas Importantes
+> * 🛡️ **Validação de Inputs:** O
+> * Usa o `try / except ValueError` para evitar que o programa vá abaixo se o utilizador escrever texto em vez de números. 
+> * 📏 **A Função `abs()`:** Calcular a distância térmica (`abs(secreto - tentativa)
