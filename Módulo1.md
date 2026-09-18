@@ -5,7 +5,7 @@
 > [!NOTE]
 > ### 📝 Exercício 1: Sistema de Alarme por Tentativas
 > **Objetivo:** Limitar o número de tentativas do utilizador. Se falhar 3 vezes, o cofre entra em bloqueio de segurança.
->
-> 📝 Exercício 2: Calculadora de Proximidade (Quente ou Frio)
+
 >[!NOTE]
+> ###📝 Exercício 2: Calculadora de Proximidade (Quente ou Frio)
 >**Objetivo:** Dar pistas térmicas com base na distância numérica entre o palpite e a combinação correta usando a função nativa abs().
