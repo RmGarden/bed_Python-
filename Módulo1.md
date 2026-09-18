@@ -12,6 +12,5 @@
 
 > [!TIP]
 > ### 💡 Dicas Importantes
-> * 🛡️ **Validação de Inputs:** O
-> * Usa o `try / except ValueError` para evitar que o programa vá abaixo se o utilizador escrever texto em vez de números. 
+> * 🛡️ **Validação de Inputs:** * Usa o `try / except ValueError` para evitar que o programa vá abaixo se o utilizador escrever texto em vez de números. 
 > * 📏 **A Função `abs()`:** Calcular a distância térmica (`abs(secreto - tentativa)
