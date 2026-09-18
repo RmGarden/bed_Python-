@@ -12,6 +12,7 @@ Módulo 3: Tamagotchi em Python
 
 > [!TIP]
 > **🎯 Encapsulamento com __init__:** O método __init__ é o construtor da classe.
+
 > **🛡️ Limites de Atributos:** Para evitar que valores como a felicidade ultrapassem os 100%, usa a verificação condicional ou a função min():
 > ```python
 > self.felicidade = min(100, self.felicidade + 20)
