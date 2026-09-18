@@ -12,7 +12,8 @@
 
 > [!TIP]
 > * 🧱 **Matrizes 2D:** Em Python, uma matriz é simplesmente uma lista de listas (`list[list]`). Para chegar a uma posição utiliza `mapa[linha][coluna]` (isto é, `mapa[y][x]`).
-* 🧹 **Limpa o Terminal:** 
-  ```python
-  import os
-  os.system('cls' if os.name == 'nt' else 'clear')
+> * 🧹 **Limpa o Terminal:** 
+> ```python
+>  import os
+>  os.system('cls' if os.name == 'nt' else 'clear')
+> Esta linha serve para identificar o sistema operativo Windows (nt) ou Unix/Linux/macOS (posix) e executa o comando adequado.
