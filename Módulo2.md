@@ -17,3 +17,7 @@
 >  import os
 >  os.system('cls' if os.name == 'nt' else 'clear')
 > Esta linha serve para identificar o sistema operativo Windows (nt) ou Unix/Linux/macOS (posix) e executa o comando adequado.
+
+> [!IMPORTANT]
+> **Precisas de ajuda?**  
+> Caso tenhas dúvidas ou fiques bloqueado num desafio, entra em contacto! 🚀
