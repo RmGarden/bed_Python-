@@ -16,3 +16,7 @@ Módulo 3: Tamagotchi em Python
 > **🛡️ Limites de Atributos:** Para evitar que valores como a felicidade ultrapassem os 100%, usa a verificação condicional ou a função min():
 > ```python
 > self.felicidade = min(100, self.felicidade + 20)
+
+> [!IMPORTANT]
+> **Precisas de ajuda?**  
+> Caso tenhas dúvidas ou fiques bloqueado num desafio, entra em contacto! 🚀
