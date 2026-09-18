@@ -12,3 +12,7 @@
 > Inteiros, strings e tuplos são imutáveis. Alterar uma variável inteira cria um novo objeto com um novo id().
 >
 > Listas, dicionários e instâncias de classes (Cofre) são mutáveis. Alterar um atributo do objeto mantém o mesmo id().
+
+> [!IMPORTANT]
+> **Precisas de ajuda?**  
+> Caso tenhas dúvidas ou fiques bloqueado num desafio, entra em contacto! 🚀
